@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Little Lord Fontleroy NF';
+	src: url('NF');
+	src: url('NF?#iefix') format('embedded-opentype'),
+		url('NF') format('woff'),
+		url('NF') format('truetype'),
+		url('NF') format('svg');
+}
